@@ -1,6 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Idopise Udoh
 =====================================================================================================================================
 
+<div align="center">
+  <img src="./assets/profile.jpg" alt="Idopise Udoh" width="200" height="200" style="border-radius: 50%;" />
+</div>
+
 Software Engineer and Blockchain Developer
 ------------------------------------------
 
